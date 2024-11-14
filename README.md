@@ -20,13 +20,9 @@ RAGchatbot_Supabase_OpenAI is a Retrieval-Augmented Generation (RAG) chatbot des
 - Supabase account and API keys
 - OpenAI account and API keys
 
-** The OpenAI key cannot be used for free, except for eligible new users who may receive a limited amount of $5 worth of credits. **
+** The OpenAI key cannot be used for free, except for eligible new users who may receive a limited amount of credits. **
 
 ### Install Required Packages
-
-run the first cell to install all required dependencies
-
-or
 
 ```bash
 pip install openai langchain langchain_community supabase
